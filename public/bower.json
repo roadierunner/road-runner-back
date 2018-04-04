@@ -1,0 +1,27 @@
+{
+  "name": "road-runner",
+  "authors": [
+    "Daniel Guzman <dguzman1012@gmail.com>"
+  ],
+  "description": "Traffics alerts & Jams for Delawer",
+  "main": "",
+  "keywords": [
+    "Traffics",
+    "alerts",
+    "jams",
+    "Delawer"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gentelella": "^1.4.0"
+  }
+}
